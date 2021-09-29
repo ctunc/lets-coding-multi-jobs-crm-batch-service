@@ -1,0 +1,18 @@
+com/letscoding/batch/multijobscrm/job/MultiJobsCrmCronJobTasklet.java
+ com.letscoding.batch.multijobscrm.job.MultiJobsCrmCronJobTasklet
+com/letscoding/batch/multijobscrm/repository/postgress/EmployeeRepository.java
+ com.letscoding.batch.multijobscrm.repository.postgress.EmployeeRepository
+com/letscoding/batch/multijobscrm/job/ChunkOrientedCrmWriter.java
+ com.letscoding.batch.multijobscrm.job.ChunkOrientedCrmWriter
+com/letscoding/batch/multijobscrm/config/MultiJobsCrmCronJobConfiguration.java
+ com.letscoding.batch.multijobscrm.config.MultiJobsCrmCronJobConfiguration
+com/letscoding/batch/multijobscrm/dto/EmployeeDTO.java
+ com.letscoding.batch.multijobscrm.dto.EmployeeDTO
+com/letscoding/batch/multijobscrm/SpringBatchApplication.java
+ com.letscoding.batch.multijobscrm.SpringBatchApplication
+com/letscoding/batch/multijobscrm/dbmodel/postgress/Employee.java
+ com.letscoding.batch.multijobscrm.dbmodel.postgress.Employee
+com/letscoding/batch/multijobscrm/config/MultiJobsChunkCronJobConfiguration.java
+ com.letscoding.batch.multijobscrm.config.MultiJobsChunkCronJobConfiguration
+com/letscoding/batch/multijobscrm/job/ChunkOrientedCrmReader.java
+ com.letscoding.batch.multijobscrm.job.ChunkOrientedCrmReader

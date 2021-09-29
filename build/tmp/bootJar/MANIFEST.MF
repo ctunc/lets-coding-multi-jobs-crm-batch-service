@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Implementation-Title: lets-coding-multi-jobs-crm-batch-service
+Built-By: ctunc
+Build-Timestamp: 2021-09-29T17:57:18.211+0300
+Implementation-Version: 0.0.1
+Created-By: Gradle 6.5.1
+Build-Jdk: 11.0.8 (Oracle Corporation 11.0.8+10-LTS)
+Build-OS: Windows 10 amd64 10.0
+Class-Path: /appconfigs/
+Spring-Boot-Classes: BOOT-INF/classes/
+Spring-Boot-Lib: BOOT-INF/lib/
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/lets-coding-multi-jobs-crm-batch-service
+Main-Class: org.springframework.boot.loader.JarLauncher
+Start-Class: com.letscoding.batch.multijobscrm.SpringBatchApplication
+Spring-Boot-Version: 2.2.0.RELEASE
+
